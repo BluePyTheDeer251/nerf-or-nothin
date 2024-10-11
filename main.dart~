@@ -1,3 +1,0 @@
-int main() {
-  print("Hello, this already looks like Python mixed with C");
-}
