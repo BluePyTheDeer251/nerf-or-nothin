@@ -1,2 +1,5 @@
-# nerf-or-nothin
-BluePy experimenting with Dart and Flutter.
+# BluePy's Dart Trip
+
+Just me trying to learn something other than Python.
+
+Alongside Rust.
