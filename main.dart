@@ -19,6 +19,6 @@ void main() {
     print("Less than 125");
   }
   stdout.write("Write any text");
-  randomText = stdin.readLineSync();
+  String? randomText = stdin.readLineSync();
   print(randomText);
 }
